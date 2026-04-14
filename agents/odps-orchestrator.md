@@ -19,7 +19,7 @@ tools: Read
 
 再使用 result-validator subagent 校验 output/analysis-result.md 中的分析结果
 
-最后使用 report-writer subagent 整合所有 output/ 目录下的中间产物，撰写完整分析报告到 output/report.md
+最后使用 report-writer subagent 整合所有 output/ 目录下的中间产物，撰写 Markdown 报告（output/report.md）和 HTML 报告（output/report.html）
 ```
 
 **就这样。不要做任何其他事情。**
